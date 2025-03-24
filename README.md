@@ -2,7 +2,7 @@
 Apuntes utiles de programacion
 
 GENERAR LLAVE SSH para GITHUB
-ssh-keygen -t ed25519 -C tu_correo@example.com
+>ssh-keygen -t ed25519 -C tu_correo@example.com
 //-t ed25519 establece el nivel de encriptación.
 //-C añade un comentario con tu correo, útil para identificar la llave en GitHub.
 
