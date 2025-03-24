@@ -1,5 +1,3 @@
-Creo que el archivo de bug_report.md no fue colocado en los recursos, pero aquí dejo una témplate:
-
 ---
 
 name: "🐛 Bug Report"
